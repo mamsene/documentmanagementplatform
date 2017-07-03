@@ -8,5 +8,8 @@ env:
 sudo: required
 mono: none
 dotnet: 1.0.1
+before_script:
+  - chmod a+x ./build.sh
+  - cd ./DocumentManagement
 script:
   - dotnet build -c Release -f netcoreapp1.1
