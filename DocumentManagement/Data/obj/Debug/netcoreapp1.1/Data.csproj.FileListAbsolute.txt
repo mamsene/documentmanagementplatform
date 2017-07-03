@@ -1,0 +1,7 @@
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Data\bin\Debug\netcoreapp1.1\Data.deps.json
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Data\bin\Debug\netcoreapp1.1\Data.dll
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Data\bin\Debug\netcoreapp1.1\Data.pdb
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Data\obj\Debug\netcoreapp1.1\Data.csprojResolveAssemblyReference.cache
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Data\obj\Debug\netcoreapp1.1\Data.AssemblyInfo.cs
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Data\obj\Debug\netcoreapp1.1\Data.dll
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Data\obj\Debug\netcoreapp1.1\Data.pdb

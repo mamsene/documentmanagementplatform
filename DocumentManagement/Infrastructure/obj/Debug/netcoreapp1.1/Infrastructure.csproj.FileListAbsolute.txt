@@ -1,0 +1,7 @@
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Infrastructure\bin\Debug\netcoreapp1.1\Infrastructure.deps.json
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Infrastructure\bin\Debug\netcoreapp1.1\Infrastructure.dll
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Infrastructure\bin\Debug\netcoreapp1.1\Infrastructure.pdb
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Infrastructure\obj\Debug\netcoreapp1.1\Infrastructure.csprojResolveAssemblyReference.cache
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Infrastructure\obj\Debug\netcoreapp1.1\Infrastructure.AssemblyInfo.cs
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Infrastructure\obj\Debug\netcoreapp1.1\Infrastructure.dll
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Infrastructure\obj\Debug\netcoreapp1.1\Infrastructure.pdb

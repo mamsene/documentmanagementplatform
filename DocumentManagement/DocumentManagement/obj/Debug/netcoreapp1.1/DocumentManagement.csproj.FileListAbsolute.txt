@@ -1,0 +1,9 @@
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\DocumentManagement\bin\Debug\netcoreapp1.1\DocumentManagement.deps.json
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\DocumentManagement\bin\Debug\netcoreapp1.1\DocumentManagement.runtimeconfig.json
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\DocumentManagement\bin\Debug\netcoreapp1.1\DocumentManagement.runtimeconfig.dev.json
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\DocumentManagement\bin\Debug\netcoreapp1.1\DocumentManagement.dll
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\DocumentManagement\bin\Debug\netcoreapp1.1\DocumentManagement.pdb
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\DocumentManagement\obj\Debug\netcoreapp1.1\DocumentManagement.csprojResolveAssemblyReference.cache
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\DocumentManagement\obj\Debug\netcoreapp1.1\DocumentManagement.AssemblyInfo.cs
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\DocumentManagement\obj\Debug\netcoreapp1.1\DocumentManagement.dll
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\DocumentManagement\obj\Debug\netcoreapp1.1\DocumentManagement.pdb

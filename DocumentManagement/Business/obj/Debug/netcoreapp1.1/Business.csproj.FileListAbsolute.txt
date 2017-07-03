@@ -1,0 +1,7 @@
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Business\bin\Debug\netcoreapp1.1\Business.deps.json
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Business\bin\Debug\netcoreapp1.1\Business.dll
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Business\bin\Debug\netcoreapp1.1\Business.pdb
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Business\obj\Debug\netcoreapp1.1\Business.csprojResolveAssemblyReference.cache
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Business\obj\Debug\netcoreapp1.1\Business.AssemblyInfo.cs
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Business\obj\Debug\netcoreapp1.1\Business.dll
+C:\documentmanagement\documentmanagementplatform\DocumentManagement\Business\obj\Debug\netcoreapp1.1\Business.pdb
