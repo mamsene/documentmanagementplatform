@@ -2,5 +2,4 @@ sudo: required
 language: csharp
 solution: DocumentManagement.sln
 install:
-  - sudo apt-get install -y gtk-sharp2
   - nuget restore DocumentManagement.sln
