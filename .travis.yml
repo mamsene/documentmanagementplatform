@@ -5,4 +5,4 @@ sudo: required
 mono: none
 dotnet: 1.0.1
 script:
-  - RUN chmod +x ./build.sh
+  - ./build.sh --quiet verify
