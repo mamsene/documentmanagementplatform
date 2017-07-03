@@ -1,4 +1,4 @@
 language: csharp
-solution: .\DocumentManagement\DocumentManagement.sln
+solution: ./DocumentManagement/DocumentManagement.sln
 install:
-  - nuget restore .\DocumentManagement\DocumentManagement.sln
+  - nuget restore ./DocumentManagement/DocumentManagement.sln
